@@ -1,0 +1,8 @@
+server:
+  port: 8002
+
+
+federated:
+  authorization:
+    server:
+      url: 'http://localhost:9000/oauth2/authorize'
